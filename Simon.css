@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-image: url("download.jpg");
+    background-size: contain;
+}
+
+.box{
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border:8px solid black;
+    margin:1.75rem;
+}
+
+.box-container{
+    display:flex;
+    justify-content: center;
+}
+
+.pink{
+    background-color: rgb(202, 14, 124);
+}
+
+.yellow{
+   background-color: rgb(201, 143, 35);
+}
+.green{
+    background-color: rgb(16, 133, 133);
+}
+.blue{
+    background-color: rgb(109, 109, 205);
+}
+
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: aquamarine;
+}
